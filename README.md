@@ -8,7 +8,7 @@ Applying various important data science skills like: data importing and cleaning
 
 Welcome to New York City (NYC), one of the most-visited cities in the world. As a result, there are many Airbnb listings to meet the high demand for temporary lodging for anywhere between a few nights to many months.
 
-#### Project Libraries and Modules
+### Project Libraries and Modules
 
 * [Numpy](https://numpy.org/doc/stable/index.html)
 * [Pandas](https://pandas.pydata.org/)
