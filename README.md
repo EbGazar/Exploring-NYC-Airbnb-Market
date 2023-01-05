@@ -1,6 +1,6 @@
 ## Exploring the NYC Airbnb Market
 
-#### Project Overview
+### Project Overview
 
 Applying various important data science skills like: data importing and cleaning to analyze the Airbnb market in New york, also ingest and combine the data from multiple file types, and clean strings and format dates to extract accurate information.
 
