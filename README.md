@@ -24,7 +24,7 @@ You can find more about this dataset throught this link: [New York City Airbnb M
 * Data Importing: using various techniques to import data such as: `.xlsx` and `.csv`.
 * Data Merging and Aggregation: joining multiple DataFrames from different data sources together and aggregate.
 * Feature Engineering: Creating new columns from the old ones to highlight some of the columns features 
-* Data Exploration: using [Pandas](https://pandas.pydata.org/) `head()` , `describe()` and `info()` method, we get a closer look at DataFrames.
+* Data Exploration: using Pandas `head()` , `describe()` and `info()` method, we get a closer look at DataFrames.
 * Data Cleaning: by elimnating unnecessary data from our columns and ensuring they have the desired data type from: `str`, `int` and `category`, also by insuring that we have the right ranges for our data and doesn't contain `NULL` or `NA` data.
 * Data Analyzing: gainig insights from the data, by comparing costs to the private rental market, knowing the timeframe are we working with, Analyzing listing prices and prices ranges by NYC boroughm, also highlighting most important summary statitics for various columns and DataFrames.
 
